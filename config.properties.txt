@@ -1,2 +1,4 @@
 uname=kumar
 pwd=sivba@334
+accunt-id
+acc nMARR 
