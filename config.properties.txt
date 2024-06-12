@@ -1,0 +1,2 @@
+uname=kumar
+pwd=sivba@334
