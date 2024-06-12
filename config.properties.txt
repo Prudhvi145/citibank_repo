@@ -2,3 +2,4 @@ uname=kumar
 pwd=sivba@334
 accunt-id
 acc nMARR 
+email=prudhvisiva5545@gmail.com
